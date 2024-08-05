@@ -1,5 +1,5 @@
 '''
-COstumerName
+CostumerName
 
 '''
 costumerFirstName="Halil"
