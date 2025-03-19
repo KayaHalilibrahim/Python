@@ -3,15 +3,15 @@
 #ATM
 #ATM
 
-sadikAccount = {
-    'name': 'Sadık Turan',
+halilAccount = {
+    'name': 'Halil Kaya',
     'account_no': '131531',
     'balance': 3000,
     'overdraft': 2000
 }
 
-aliAccount = {
-    'name': 'Ali Turan',
+ibrahimAccount = {
+    'name': 'ibrahim Kaya',
     'account_no': '1131',
     'balance': 2000,
     'overdraft': 1000
@@ -40,5 +40,5 @@ def withdrawMoney(account, amount):
         else:
             print('Sorry, insufficient funds.')
     
-withdrawMoney(sadikAccount, 5000)
-withdrawMoney(sadikAccount, 1000)
+withdrawMoney(halilAccount, 5000)
+withdrawMoney(ibrahimAccount, 1000)
