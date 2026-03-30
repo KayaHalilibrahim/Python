@@ -22,7 +22,7 @@ for n in names:
     print(n)
 
     
-name ='Sadık Turan'
+name ='Murat Demir'
 for x in name:
     print(x)
     
